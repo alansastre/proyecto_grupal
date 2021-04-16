@@ -15,3 +15,11 @@
 
 # Por ver
 10. Ramas
+    1.  Git Flow
+        1.  master o main
+        2.  hotfix
+        3.  release
+        4.  develop
+        5.  feature-
+        6.  fix-
+        7.  support-

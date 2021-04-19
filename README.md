@@ -1,5 +1,5 @@
 
-# Puntos clave
+# Puntos clave Esquema cambio
 
 0. Crear cuenta en github.com
 1. Instalar Git

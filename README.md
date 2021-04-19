@@ -14,4 +14,10 @@
 9. Resuelto un conflicto
 
 # Por ver
-10. viva el cordoba
+1.  Ramas:
+    1.  Crear nueva rama
+    2.  Registrar cambios en la nueva rama (Hacer commits)
+    3.  Push a github: llevar la nueva rama al remoto
+    4.  Descargar una rama del remoto
+    5.  Fusionar una rama
+    6.  Borrar una rama
